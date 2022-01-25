@@ -2,7 +2,7 @@ body {
     font-family: Helvetica;
 }
 
-.bold {
+h1, h2, span {
     font-weight: bold;
 }
 
@@ -18,18 +18,18 @@ h2 {
     color: white;
 }
 
-.blue {
+span {
     color: blue;
 }
 
-.green-background {
+.green {
     background-color: mediumspringgreen;
 }
 
-.red-background {
+.red {
     background-color: lightcoral;
 }
 
-.blue-background {
+.blue {
     background-color: skyblue;
 }
